@@ -1,5 +1,5 @@
 Annex A
-<br> Computational Thinking Exercisem "Smart School Canteen Queue"
+<br> Computational Thinking Exercise "Smart School Canteen Queue"
 
 Section: 9 - Arayat
 
